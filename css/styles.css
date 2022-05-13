@@ -913,23 +913,6 @@ footer .logo {
   fill: var(--contacts-color);
 }
 
-/* .check-text::before {
-  content: '';
-  width: 16px;
-  height: 15px;
-  border: 2px solid var(--logo-color);
-  border-radius: 3px;
-  margin-right: 8px;
-}
-
-.checkbox-input:checked + .check-text::before {
-  background-color: var(--accent-color);
-  border: none;
-  background-image: url(../images/icon-check.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-} */
-
 .checkbox-link {
   color: var(--accent-color);
 }
